@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid md:grid-cols-2 gap-10 items-center">
         <div className="animate-slideUp">
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-semibold text-slate-900 leading-tight">
-            Lic. Silvia González,
+            Lic. Silvia Iturburu,
             <span className="block text-blue-600">Kinesióloga en Buenos Aires</span>
           </h1>
           <p className="mt-4 text-slate-600 text-lg">Te ayudo a recuperar tu movilidad y bienestar físico con tratamientos personalizados y técnicas especializadas en kinesiología.</p>

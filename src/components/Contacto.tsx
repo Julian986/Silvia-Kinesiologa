@@ -23,7 +23,7 @@ export default function Contacto() {
             <div className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
               <h3 className="font-semibold text-slate-900">Contacto directo</h3>
               <p className="mt-2 text-slate-600">Tel: <a className="text-blue-600 hover:underline" href="tel:+5491154321098">+54 11 5432-1098</a></p>
-              <p className="text-slate-600">Email: <a className="text-blue-600 hover:underline" href="mailto:consultas@silviagonzalez.com">consultas@silviagonzalez.com</a></p>
+              <p className="text-slate-600">Email: <a className="text-blue-600 hover:underline" href="mailto:consultas@silviaiturburu.com">consultas@silviaiturburu.com</a></p>
               <p className="mt-3 text-sm text-slate-500">
                 <strong>Horarios:</strong><br />
                 Lun-Vie: 9:00-19:00<br />
@@ -41,7 +41,7 @@ export default function Contacto() {
                 allowFullScreen 
                 loading="lazy" 
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Ubicación de Lic. Silvia González - Kinesióloga"
+                title="Ubicación de Lic. Silvia Iturburu - Kinesióloga"
                 className="w-full"
               />
             </div>
