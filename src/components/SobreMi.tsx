@@ -1,7 +1,6 @@
 
 
 // Placeholder para segunda imagen de Silvia
-const SilviaConsultaPlaceholder = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='300' viewBox='0 0 400 300'%3E%3Crect width='400' height='300' fill='%23e2e8f0'/%3E%3Ctext x='50%25' y='35%25' text-anchor='middle' dy='.3em' fill='%23475569' font-family='Arial, sans-serif' font-size='14'%3ESilvia en su consulta%3C/text%3E%3Ctext x='50%25' y='50%25' text-anchor='middle' dy='.3em' fill='%23475569' font-family='Arial, sans-serif' font-size='12'%3ETratamiento profesional%3C/text%3E%3Ctext x='50%25' y='65%25' text-anchor='middle' dy='.3em' fill='%23475569' font-family='Arial, sans-serif' font-size='12'%3Ede kinesiología%3C/text%3E%3C/svg%3E"
 
 export default function SobreMi() {
   return (

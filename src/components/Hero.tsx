@@ -1,5 +1,4 @@
 // Placeholder para imagen profesional de Silvia
-const SilviaPlaceholder = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='300' viewBox='0 0 400 300'%3E%3Crect width='400' height='300' fill='%23f1f5f9'/%3E%3Ctext x='50%25' y='40%25' text-anchor='middle' dy='.3em' fill='%2364748b' font-family='Arial, sans-serif' font-size='16'%3EFoto Profesional%3C/text%3E%3Ctext x='50%25' y='60%25' text-anchor='middle' dy='.3em' fill='%2364748b' font-family='Arial, sans-serif' font-size='14'%3ELic. Silvia González%3C/text%3E%3C/svg%3E"
 
 export default function Hero() {
   return (
